@@ -1,0 +1,11 @@
+pricing:
+  plex:
+    cost: 7.00
+  spotify:
+    cost: 3.00
+users:
+- name: First Last
+  username: first-last-1
+  services:
+  - plex
+  - spotify
